@@ -11,11 +11,6 @@ This project controls three LEDs (Red, Green, and Yellow) using NodeMCU ESP8266 
 - Breadboard
 - Jumper wires
 - Wi-Fi connection
-# Pin Configuration
-LED Color| NodeMCU Pin| KiwisIoT Channel
-Red| D1| Channel 0
-Green| D2| Channel 1
-Yellow| D3| Channel 2
 ## Source Code
 [ledcontrol.ino](ledcontrol.ino)
 
