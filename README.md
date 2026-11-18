@@ -21,7 +21,7 @@ Yellow| D3| Channel 2
 
 ## Images
 ![3 LED](3led.jpeg)
-![LED Control](3ledcontrol.jpeg)
+![LED Control](3ledcontrol.png)
 # Working
 - Channel 0 controls the Red LED.
 - Channel 1 controls the Green LED.
