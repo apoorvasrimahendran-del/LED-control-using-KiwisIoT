@@ -16,7 +16,7 @@ This project controls three LEDs (Red, Green, and Yellow) using NodeMCU ESP8266 
 
 ## Images
 ![3 LED](3led.jpeg)
-![LED Control](3ledcontrol.png)
+![LED Control]
 # Working
 - Channel 0 controls the Red LED.
 - Channel 1 controls the Green LED.
